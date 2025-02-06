@@ -51,3 +51,17 @@ Welcome to my **Digital Logic Notes** repository! This repo contains well-struct
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/Digital-Logic-Notes.git
+
+   - Navigate through the structured notes.  
+   - Feel free to contribute or raise issues.
+
+
+   ## 🤝 Contributions  
+   Contributions are welcome! If you have suggestions, feel free to open a **pull request** or submit an **issue**.  
+
+---
+
+## 🔗 Connect with Me  
+📧 Email: sharwankunwar07@gmail.com  
+📱 Facebook: [[Your Profile](https://facebook.com/your-profile)](https://www.facebook.com/profile.php?id=61560874714135)
+💼 LinkedIn: [[Your Profile](https://linkedin.com/in/your-profile)  ](https://www.linkedin.com/in/sharwan-kunwar-95a919317/)
