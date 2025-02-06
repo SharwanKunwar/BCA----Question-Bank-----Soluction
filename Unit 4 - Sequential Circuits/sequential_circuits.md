@@ -10,3 +10,8 @@ Sequential circuits are a type of digital circuit where the present output depen
 
 ### Example:
 For instance, a **flip-flop** in a sequential circuit can store a bit of data (either 0 or 1) and use that data in future operations.
+
+
+###Link of This file in graphic
+- [Here](https://excalidraw.com/#json=zHUkLF_CRMz9RjleMzXLq,YI8fmxVWGZCgW_q5NLHD8g)
+
