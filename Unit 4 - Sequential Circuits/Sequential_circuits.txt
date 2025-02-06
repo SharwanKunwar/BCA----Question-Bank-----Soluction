@@ -1,3 +1,5 @@
+- [Sequential Circuits](#sequential-circuits) 
+
 What is Sequential circuits?
 
 Sequential circuits are a type of digital circuits, the present output depends 
