@@ -7,7 +7,7 @@ Welcome to the summary of topics covered in this repository. Use the links below
 - [Unit 1: Introduction to Digital Logic](./unit-1.md)  
 - [Unit 2: Logic Gates](./unit-2.md)  
 - [Unit 3: Combinational Circuits](./unit-3.md)  
-- [Unit 4: Sequential Circuits](./Unit%204%20-%20Sequential%20Circuits/sequential_circuits.md)
+- [Unit 4: Sequential Circuits](./Unit%204%20-%20Sequential%20Circuits/.md)
 
 ---
 
