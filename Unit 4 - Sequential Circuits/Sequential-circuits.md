@@ -1,7 +1,0 @@
-- [Sequential Circuits](#sequential-circuits) 
-
-What is Sequential circuits?
-
-Sequential circuits are a type of digital circuits, the present output depends 
-on the present input as well as past output, Sequential circuits use memory 
-elements (like flip-flop) to store pervious states.
