@@ -3,7 +3,7 @@
 Sequential circuits are a type of digital circuit that, unlike combinational circuits, utilize past state information to determine their next state.  While combinational circuits rely solely on current input values to produce outputs, sequential circuits depend on both current inputs *and* previous outputs. This is achieved through the use of memory elements, which store the previous state.
 
 
-# <big>Circuit diagram of sequential circuits</big>
+# <b>Circuit diagram of sequential circuits</b>
 -[See](https://excalidraw.com/#json=qjiLqyats7sQh4ojLY2KC,V6fDvvqYtITJH99nQDMz-g)
 
 ## What are Sequential Circuits?
