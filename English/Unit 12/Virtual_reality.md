@@ -1,6 +1,6 @@
 Date : 2081-10-25   | Time: 6:36
 ---
-# Virtual Reality (VR) – A Complete Guide
+# Virtual Reality (VR)
 
 ## What is Virtual Reality?
 
