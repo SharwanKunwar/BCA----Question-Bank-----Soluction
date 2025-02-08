@@ -30,3 +30,8 @@ Computers have evolved significantly over the decades, transforming from massive
 
 ## Conclusion  
 Computers have evolved from room-sized machines to pocket-sized devices. Future advancements will likely focus on **AI, quantum computing, and human-computer interactions**, shaping the way we live and work.
+
+---
+
+### **📌 Author:** Sharwan Jung Kunwar  
+### **📅 Last Updated:** 2025
