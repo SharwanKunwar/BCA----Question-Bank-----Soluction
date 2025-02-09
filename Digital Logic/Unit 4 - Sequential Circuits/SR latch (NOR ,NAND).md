@@ -24,7 +24,7 @@ An **SR Latch** (Set-Reset Latch) is a fundamental sequential logic circuit used
 - **Implementation**: Constructed using two NOR gates, where each gate's output is connected to the other's input.
 - **Invalid Condition**: When **S = 1** and **R = 1**, both outputs **Q** and **Q'** become **0**, violating the rule that they must always be complements.
 
-[Click me for Diagram and conclusion](./assets/SR%20latch%20(using%20NOR%20gate).pdf)
+<a href="https://github.com/SharwanKunwar/BCA---BOOKS---CONTENT/blob/main/Digital%20Logic/Unit%204%20-%20Sequential%20Circuits/assets/SR%20latch%20(using%20NOR%20gate).pdf" target="_blank">Click me for Diagram and conclusion</a>
 
 ---
 
@@ -42,7 +42,8 @@ An **SR Latch** (Set-Reset Latch) is a fundamental sequential logic circuit used
   - Unlike NOR-based latches, the **inactive** state is **S = 1, R = 1**, which results in no change in output.
   - The invalid condition happens when **S = 0** and **R = 0**, which forces **Q = 1** and **Q' = 1**, violating complementarity.
 
-[Click me for Diagram and conclusion](./assets/SR%20latch%20(using%20NAND%20gate).pdf)
+[Click me for Diagram and conclusion](./assets/Group%206.jpg)
+
 ---
 
 ## Applications of SR Latch
