@@ -139,3 +139,7 @@ Technology has influenced family life by changing the way families communicate. 
 ## Conclusion
 
 This repository provides a deeper understanding of the diverse family structures, their functions, and how they are evolving in contemporary societies. It is an essential resource for students and anyone interested in sociology.
+
+
+### **📌 Author:** Sharwan Jung Kunwar  
+### **📅 Last Updated:** 2081-10-26
