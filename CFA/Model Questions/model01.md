@@ -1,7 +1,8 @@
-# Model   Bank Solutions (CFA) - 
+# Model 01   Bank Solutions (CFA) - 
 <br><br>
+<hr>
 <span style="color:red"><BIG><B>✨ GROUP A ✨</B></BIG></span>
-<br>
+<hr>
 
 ###  <span style="color:red">i</span>. Which one of the following is not the characteristic of computer?
 - a) <span style="color:green">Diligence ✅</span> 
@@ -68,7 +69,7 @@
 <hr>
 <span style="color:red"><BIG><B>✨ GROUP B ✨</B></BIG></span>
 <hr>
-<br>
+
 ### 2. What do you mean by computer architecture? Describe the functional components of computer architecture with a block diagram.  
 
 Computer architecture refers to the design and organization of a computer system, including its hardware components, how they interact, and how they execute instructions. It defines the structure, functionality, and performance of a computer, covering aspects like the processor, memory, input/output (I/O) devices, and data transfer mechanisms.  
