@@ -133,3 +133,100 @@ An operating system (OS) is a curical piece of software that manages the compute
 - In a Batch OS, similar jobs are grouped together and executed without user interaction.  
 - The OS processes jobs in batches, reducing manual intervention.  
 - **Example:** IBM OS/360, Windows Batch Processing  
+
+### 4. Define DBMS. Explain the different database models with their pros and cons.
+A Database Management System (DBMS) is software that is used to store, retrieve, manage, and manipulate data efficiently. It provides a structured way to organize and handle large amounts of data while ensuring security, consistency, and integrity.
+
+## Examples of DBMS:
+- MySQL
+- PostgreSQL
+- Oracle Database
+- Microsoft SQL Server
+- MongoDB
+
+# Types of Database Models
+A database model defines how data is structured, stored, and accessed in a database. There are several types of database models, each with its own advantages and disadvantages.
+
+## i. Hierarchical Database Model  
+- Data is organized in a tree-like structure with a parent-child relationship.  
+- Each parent node can have multiple child nodes, but a child can have only one parent.  
+- **Example:** IBM Information Management System (IMS)  
+
+### ✅ Merits:  
+- Fast data retrieval due to hierarchical structure  
+- Ensures data integrity through parent-child relationships  
+- Suitable for applications with a well-defined structure (e.g., organizational charts)  
+
+### ❌ Demerits:  
+- Difficult to modify the structure (changing relationships requires significant rework)  
+- Redundant data due to one-parent rule  
+- Not suitable for complex relationships  
+
+---  
+
+## ii. Network Database Model  
+- Similar to the hierarchical model but allows many-to-many relationships.  
+- Uses pointers (links) to connect multiple records.  
+- **Example:** Integrated Data Store (IDS)  
+
+### ✅ Merits:  
+- Flexible relationships compared to hierarchical databases  
+- Efficient for complex data relationships  
+- Faster access due to multiple paths  
+
+### ❌ Demerits:  
+- Complex design and implementation  
+- Hard to maintain due to the use of multiple pointers  
+- Requires specialized knowledge for querying  
+
+---  
+
+## iii. Relational Database Model (RDBMS)  
+- Data is stored in tables (relations) consisting of rows and columns.  
+- Uses keys (Primary Key, Foreign Key) to establish relationships.  
+- **Examples:** MySQL, PostgreSQL, Oracle, SQL Server  
+
+### ✅ Merits:  
+- Simple and widely used model  
+- Supports SQL for efficient querying  
+- Eliminates redundancy through normalization  
+- Ensures data integrity and security  
+
+### ❌ Demerits:  
+- Can be slow for complex queries on large datasets  
+- Schema (table structure) must be predefined  
+- Not ideal for unstructured or hierarchical data  
+
+---  
+
+## iv. Object-Oriented Database Model (OODBMS)  
+- Stores data in the form of objects (like in OOP languages such as Java, C++).  
+- Objects include both data (attributes) and behavior (methods).  
+- **Examples:** db4o, ObjectDB  
+
+### ✅ Merits:  
+- Supports complex data types (images, multimedia)  
+- Well-suited for OOP-based applications  
+- Reduces the mismatch between programming objects and database structures  
+
+### ❌ Demerits:  
+- Not as popular as RDBMS  
+- Learning curve is steep for relational database users  
+- Slower querying compared to relational models  
+
+---  
+
+## v. Document-Oriented Database Model (NoSQL)  
+- Data is stored as documents in JSON, BSON, or XML formats.  
+- Flexible structure, allowing schema-less data storage.  
+- **Examples:** MongoDB, CouchDB  
+
+### ✅ Merits:  
+- Handles unstructured data efficiently  
+- Scalable and fast for large datasets  
+- Ideal for Big Data, IoT, and real-time applications  
+
+### ❌ Demerits:  
+- No strict relationships like RDBMS  
+- Complex queries can be difficult to manage  
+- Less support for standard query languages like SQL  
