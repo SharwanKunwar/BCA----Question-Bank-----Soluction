@@ -5,9 +5,9 @@
 <hr>
 
 ###  <span style="color:red">i</span>. Which one of the following is not the characteristic of computer?
-- a) <span style="color:green">Diligence ✅</span> 
+- a) <span style="color:white">Diligence</span> 
 - b) Versatile
-- c) Intelligence
+- c) Intelligence ✅
 - d) Reliable
 
 ###  <span style="color:red">ii</span>. Which one of the following is the utility software?
