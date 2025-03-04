@@ -8,7 +8,16 @@ This unit introduces the foundational concepts of sociology, providing a compreh
 ## Topics Covered
 
 ### 1. **Definition of Sociology**
-Sociology is the study of society, social behavior, and the interactions among individuals, groups, and institutions. It explores the ways in which social structures, processes, and relationships shape human actions and societal developments.
+
+The word sociology is derived from both Latin and Greek origins. The Latin word:  
+**"socius"** means **"companion,"** and the word **"logy"** means **"the study of"** from Greek.  
+
+Sociology is a study of society, patterns of social relationships, social interaction, and culture of everyday life. It is a social science that uses various methods of empirical investigation and critical analysis to develop a body of knowledge about social order, acceptance, and change or social evolution. Sociology is also defined as the general science of society.  
+
+It is the scientific study of society, including patterns of social relationships, social interactions, and culture. The term **sociology** was first used by **Frenchman Auguste Comte** in the **1830s** when he proposed a synthetic science uniting all knowledge about human activity. In the academic world, sociology is considered one of the social sciences.  
+
+Sociologists study all things human, from the interactions between two people to the complex relationships between nations or multinational corporations. While sociology assumes that human actions are patterned, individuals still have room for choices. Becoming aware of the social processes that influence the way humans think, feel, and behave, plus having the will to act, can help individuals shape the social forces they face.
+
 
 ### 2. **Nature and Scope of Sociology**
 
