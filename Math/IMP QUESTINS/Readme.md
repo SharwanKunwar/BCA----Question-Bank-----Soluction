@@ -4,7 +4,7 @@
 
 **Question and solution Image:**
 
-![Question 1](assets/Q1.png)
+![Question1](assets/Q01.jpg)
 
 ---
 
@@ -12,18 +12,18 @@
 
 **Question and solution Image:**
 
- ![Question 2](assets/Q2.png)
+ ![Question 2](assets/Q02.jpg)
 
 ---
 
 ## 3. Modulus of Complex Expression
 
 **Question and solution Image:**
-![Question 3](assets/Q3.png)
+![Question 2](assets/Q03.jpg)
 
 ---
 
 ## 4. Logarithmic Proof
 
 **Question and solution Image:**
-![Question 4](assets/Q4.png)
+![Question 2](assets/Q04.jpg)
