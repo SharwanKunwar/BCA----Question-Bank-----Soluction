@@ -3,7 +3,7 @@
 ## 1. Define Exponential and Logarithmic Function
 
 **Question and solution Image:**
-![Question 01](assets/Q1.png)
+![Question 01](assets/q1.png)
 ![Solution 1](assets/Q01.jpg)
 
 ---
