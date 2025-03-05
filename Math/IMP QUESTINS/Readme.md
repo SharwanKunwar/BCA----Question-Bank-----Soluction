@@ -4,7 +4,7 @@
 
 **Question and solution Image:**
 
-![Question 1](assets/Q1.png)
+![Question 1]([assets/Q1.png](https://github.com/SharwanKunwar/BCA----Question-Bank-----Soluction/blob/main/Math/assets/Q01.jpg?raw=true))
 
 ---
 
