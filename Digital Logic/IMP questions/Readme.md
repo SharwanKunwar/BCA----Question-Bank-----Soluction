@@ -25,13 +25,13 @@ A Karnaugh Map (K-map) is a graphical tool used to simplify Boolean algebra expr
 ---
 
 ## Priority Encoder
-**Definition:**  
+
 ![img](./assets/Screenshot%202025-03-06%20062721.png)
 
 ---
 
 ## Explain the duality theorem with example.
-**Definition:**  
+
 ![img](./assets/Screenshot%202025-03-06%20062656.png)
 
 ---
