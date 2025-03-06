@@ -34,6 +34,13 @@ A Karnaugh Map (K-map) is a graphical tool used to simplify Boolean algebra expr
 **Definition:**  
 ![img](./assets/Screenshot%202025-03-06%20062656.png)
 
+---
+
+## short notes on:
+![img](./assets/Screenshot%202025-03-06%20063606.png)
+
+![img](./assets/Screenshot%202025-03-06%20063554.png)
+
 ### 📌 Notes:
 - Analog signals are continuous, while digital signals are discrete.
 - K-maps are used for simplifying Boolean expressions.
