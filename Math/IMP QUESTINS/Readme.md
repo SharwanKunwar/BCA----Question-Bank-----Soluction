@@ -27,3 +27,14 @@
 
 **Question and solution Image:**
 ![Question 4](assets/Q04.jpg)
+
+---
+<hr><hr>
+<br><br><br>
+
+# 5. Matrix inverse
+
+
+**Question and solution Image:**
+![Question 4](assets/Q05.jpg)
+![Question 4](assets/Q06.jpg)
