@@ -38,3 +38,25 @@
 **Question and solution Image:**
 ![Question 4](assets/Q05.jpg)
 ![Question 4](assets/Q06.jpg)
+
+
+---
+<hr><hr>
+<br><br><br>
+
+# 6. SET 
+
+
+**Question and solution Image:**
+![Question 7](assets/Q07.jpg)
+
+
+---
+<hr><hr>
+<br><br><br>
+
+# 6. REAL NUMBER
+
+
+**Question and solution Image:**
+![Question 7](assets/Q08.jpg)
