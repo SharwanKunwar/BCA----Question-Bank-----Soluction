@@ -21,3 +21,5 @@
 ## Introduction to SR flip flop
 ![part03_01](./assets/part03_01.jpg)
 ![part03_02](./assets/part03_02.jpg)
+![part03_03](./assets/part03_03.jpg)
+![part03_04](./assets/part03_04.jpg)
