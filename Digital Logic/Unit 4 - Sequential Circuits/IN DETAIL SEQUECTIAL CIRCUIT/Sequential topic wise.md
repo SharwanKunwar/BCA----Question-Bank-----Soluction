@@ -23,3 +23,15 @@
 ![part03_02](./assets/part03_02.jpg)
 ![part03_03](./assets/part03_03.jpg)
 ![part03_04](./assets/part03_04.jpg)
+
+<br><br>
+
+# D - FLIP FLOP
+![D01](./assets/D01.jpg)
+![D02](./assets/D02.jpg)
+
+<br><br>
+
+# JK - Flip flop
+![JK01](./assets/JK01.jpg)
+![JK02](./assets/jk02.jpg)
