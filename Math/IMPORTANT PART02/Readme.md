@@ -41,4 +41,8 @@
 ![Th04_o1](./assets/Th04_01.jpg)
 ![Th04_02](./assets/Th04_02.jpg)
 
+## let F: R-> R Defined by f(x) = 3x+5. show that f is bijective. find f^-1
+![RFG01](./assets/RFG01.jpg)
+![RFG02](./assets/RFG02.jpg)
+
 
