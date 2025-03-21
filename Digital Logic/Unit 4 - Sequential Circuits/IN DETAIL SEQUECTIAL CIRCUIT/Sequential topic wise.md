@@ -85,3 +85,5 @@
 ![PROM_PAL_PLA](./assets/PROM_PAL_PLA01.jpg)
 ![PROM_PAL_PLA](./assets/PROM_PAL_PLA02.jpg)
 
+## Ecess-3 code
+![ecess-3](./assets/excess-3%20code.jpg)
