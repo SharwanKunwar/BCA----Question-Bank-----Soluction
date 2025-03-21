@@ -33,7 +33,7 @@
 <br><br>
 
 # JK - Flip flop
-![JK01](./assets/JK01.jpg)
+![JK01](./assets/jk01.jpg)
 ![JK02](./assets/jk02.jpg)
 
 
