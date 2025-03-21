@@ -80,3 +80,8 @@
 ![subtractor02](./assets/subtractor02.jpg)
 ![subtractor03](./assets/subtractor03.jpg)
 
+
+## PROM, PAL, and PLA
+![PROM_PAL_PLA](./assets/PROM_PAL_PLA01.jpg)
+![PROM_PAL_PLA](./assets/PROM_PAL_PLA02.jpg)
+
